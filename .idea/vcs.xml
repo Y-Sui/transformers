@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Transformer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/entity_span_entity_linking/distilbert-base-uncased" vcs="Git" />
   </component>
 </project>
